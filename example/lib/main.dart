@@ -18,17 +18,15 @@ class _MyAppState extends State<MyApp> {
   TextToSpeechPlatform tts = TextToSpeechPlatform.instance;
 
   String text = '';
-  double volume = 1; // 0-1
-  double rate = 1.0; // 0-2
-  double pitch = 1.0; // 0-2
+  double volume = 1; // Range: 0-1
+  double rate = 1.0; // Range: 0-2
+  double pitch = 1.0; // Range: 0-2
 
-  /// language
+
   String? language;
   String? languageCode;
   List<String> languages = [];
   List<String> languageCodes = [];
-
-  /// voice
   String? voice;
 
   TextEditingController textEditingController = TextEditingController();
@@ -186,7 +184,6 @@ class _MyAppState extends State<MyApp> {
                           languageCode =
                               await tts.getLanguageCodeByName(newValue!);
                           voice = await getVoiceByLang(languageCode!);
-                          print('Voooooo: $voice');
                           setState(() {
                             language = newValue;
                           });
