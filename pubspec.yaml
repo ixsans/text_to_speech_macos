@@ -1,0 +1,25 @@
+name: text_to_speech_macos
+description: MacOS platform implementation of text_to_speech.
+version: 0.1.0
+homepage: https://github.com/ixsans/text_to_speech_macos
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.20.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    implements: text_to_speech
+    platforms:
+      macos:
+        pluginClass: TextToSpeechMacOsPlugin
+
+
