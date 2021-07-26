@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6d79deb-a577-403e-ab8a-c022b1fffa0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,40 +76,49 @@
       <option name="project" value="LOCAL" />
       <updated>1627271598841</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix implementation example">
+      <created>1627292288146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627292288146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update web plugin class name" />
     <MESSAGE value="Bump version v0.1.1" />
     <MESSAGE value="Update changelog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update changelog" />
+    <MESSAGE value="Fix implementation example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix implementation example" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="87" y="0" key="CommitChangelistDialog2" timestamp="1627271598648">
+    <state x="87" y="0" width="1114" height="900" key="CommitChangelistDialog2" timestamp="1627292287947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="87" y="0" width="1114" height="900" key="CommitChangelistDialog2/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627292287947" />
     <state x="87" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1627271598648" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1627284721621">
       <screen x="0" y="25" width="1440" height="806" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.25.1440.806/-262.-1055.1920.1055@0.25.1440.806" timestamp="1627284721621" />
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1627286673385">
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1627292224785">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627286673385" />
-    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1627286673380">
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627292224785" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1627292224784">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627286673380" />
-    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1627286673378">
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627292224784" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1627292224783">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627286673378" />
-    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1627286673381">
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627292224783" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1627292224784">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627286673381" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900/-262.-1080.1920.1080@0.0.1440.900" timestamp="1627292224784" />
     <state x="318" y="189" width="1122" height="522" key="find.popup" timestamp="1627291964936">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

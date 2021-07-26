@@ -148,7 +148,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "0.1.0"
+    version: "0.1.1"
   text_to_speech_platform_interface:
     dependency: "direct main"
     description:
